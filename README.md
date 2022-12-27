@@ -9,4 +9,4 @@
 # [Project 1 : Basic Data Analysis and Visualization of Life Expetancies and Suicide Rates across 132 countries](https://jovian.ai/maherdaoud/myfirstproject)
 
 In this beginner friendly project, I've analyzed life expectancies and suicide rates across 132 countries in the world. 
-* **Python libraries used:** Pandas, NumPy, Matploblib, Seaborn
+* **Python libraries used:** Pandas, NumPy, Matplotlib, Seaborn
