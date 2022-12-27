@@ -12,3 +12,6 @@ Contact me at: maherdaoud97@gmail.com
 
 In this beginner friendly project, I've analyzed life expectancies and suicide rates across 132 countries in the world. 
 * **Python libraries used:** Pandas, NumPy, Matplotlib, Seaborn
+
+
+# [Project 2 : Solving a Machine Learning problem using Sci-kit for Linear Regressions (Coming Soon)]
