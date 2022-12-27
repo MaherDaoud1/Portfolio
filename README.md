@@ -14,4 +14,4 @@ In this beginner friendly project, I've analyzed life expectancies and suicide r
 * **Python libraries used:** Pandas, NumPy, Matplotlib, Seaborn
 
 
-# [Project 2 : Solving a Machine Learning problem using Sci-kit for Linear Regressions (Coming Soon)]
+# [Project 2 : Solving a Machine Learning problem using Sci-kit for Linear Regressions (Coming Soon)]()
