@@ -1,6 +1,6 @@
 
 # Maher Daoud
-*Data Enthusiast and an Anspiring Data Scientist*
+*Data Enthusiast and Aspiring Data Scientist*
 
 # Education
 * Master of Science in Economics, *Université du Québec à Montréal*, 2021-2023
